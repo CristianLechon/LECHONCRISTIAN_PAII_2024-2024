@@ -188,5 +188,10 @@
 	<classpathentry kind="lib" path="lib/lwjgl-zstd-javadoc.jar"/>
 	<classpathentry kind="lib" path="lib/lwjgl-zstd-natives-windows.jar"/>
 	<classpathentry kind="lib" path="lib/lwjgl-zstd-sources.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/LW">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
