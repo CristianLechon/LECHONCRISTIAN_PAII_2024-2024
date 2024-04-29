@@ -4,8 +4,7 @@
 /**
  * 
  */
-module Proyecto001 {
-	requires org.lwjgl.glfw;
-	requires org.lwjgl.opengl;
+module Proyect {
 	requires java.desktop;
+	requires jogl.all;
 }
