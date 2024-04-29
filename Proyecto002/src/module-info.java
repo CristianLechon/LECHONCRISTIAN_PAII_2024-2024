@@ -4,6 +4,6 @@
 /**
  * 
  */
-module Proyecto_Jueg {
+module Proyecto002 {
 	requires java.desktop;
 }
