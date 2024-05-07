@@ -15,10 +15,10 @@ public class View {
 				Alumn alumn = new Alumn(1, "Pepe", "Gonzales", 10);
 
 // Metodo para crear la tabla
-				// alumn.createTable(Conexion.getConnection());
+				alumn.createTable(Conexion.getConnection());
 
 				// Creamos un alumno en la db
-				alumn.create(Conexion.getConnection(), alumn);
+				//alumn.create(Conexion.getConnection(), alumn);
 				//alumn.read(Conexion.getConnection(), alumn, 1);
 				//alumn.update(Conexion.getConnection(), alumn, 1);
 				//alumn.delete(Conexion.getConnection(), 1);
